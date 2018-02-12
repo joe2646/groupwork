@@ -3,5 +3,10 @@ public class Welcome{
   public static void main(String[]
  args){
     System.out.println("Welcome to Github lab 2!");
-  }  
+   System.out.println("LbpA now Making changes");
+        System.out.println("Welcome to Github lab 2!");
+   System.out.println("LbpA now Making changes");
+    
+    
+    }  
   }
